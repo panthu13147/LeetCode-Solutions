@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0217-contains-duplicate](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
