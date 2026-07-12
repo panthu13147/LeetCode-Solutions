@@ -1,41 +1,34 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-        ListNode* curr = head;
-        ListNode* ahead = head;
-        if(head==nullptr || head -> next == nullptr)
-        {
-            return nullptr;
+        // 1. Create a dummy node that points to the head
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+        
+        // 2. Both pointers start at the dummy
+        ListNode* curr = dummy;
+        ListNode* ahead = dummy;
+        
+        // 3. Create the gap of n + 1 (so curr stops right before the target)
+        for(int i = 0; i <= n; i++) {
+            ahead = ahead->next;
         }
         
-        for(int i=0;i<n;i++)
-        {
-            ahead = ahead -> next;
-            if(ahead == nullptr)
-            {
-                return head = head -> next;
-            }
-        }
-        while(ahead != nullptr && ahead -> next != nullptr)
-        {
-            ahead = ahead -> next;
-            curr = curr -> next;
-
+        // 4. Move both until ahead falls off the end
+        while(ahead != nullptr) {
+            ahead = ahead->next;
+            curr = curr->next;
         }
         
-        ListNode* temp = curr->next->next;
-        curr ->next = temp;
+        // 5. Delete the nth node
+        ListNode* temp = curr->next;
+        curr->next = curr->next->next;
+        delete temp; // Good C++ practice to prevent memory leaks!
         
-        return head;
+        // 6. Return the true head (which is safe even if the original head was deleted)
+        ListNode* newHead = dummy->next;
+        delete dummy; 
+        
+        return newHead;
     }
 };
