@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
