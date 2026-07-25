@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0704-binary-search](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Easy/0704-binary-search/) | Easy |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [0567-permutation-in-string](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
