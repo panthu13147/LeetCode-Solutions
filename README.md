@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0141-linked-list-cycle/) | Easy |
