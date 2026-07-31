@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0058-length-of-last-word](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0076-minimum-window-substring](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Easy/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
