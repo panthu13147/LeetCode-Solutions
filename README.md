@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/panthu13147/LeetCode-Solutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -338,4 +340,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/panthu13147/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
